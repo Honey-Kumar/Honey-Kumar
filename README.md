@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@honeyku54132552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@honeyku54132552" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/honey-kumar-872448236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honey-kumar-872448236" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/honey-kumar-872448236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honey-kumar-872448236" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22205387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22205387" height="30" width="40" /></a>
-<a href="https://kaggle.com/honeykumar@dsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="honeykumar@dsa" height="30" width="40" /></a>
+<a href="https://kaggle.com/honeykumardsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="honeykumar@dsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
